@@ -77,20 +77,63 @@
 //  console.log(sum)
 
 
- function multiply ( num1, num2) {
-    let result = num1 * num2;
-    return result;
- }
- let sum = multiply (5,6)
-console.log(sum)
+//  function multiply ( num1, num2) {
+//     let result = num1 * num2;
+//     return result;
+//  }
+//  let sum = multiply (5,6)
+// console.log(sum)
 
 
-function multiply ( num1, num2) 
-return
+// function multiply (num1, num2)  {
+// return num1 * num2 
+// }
+
+// console.log (multiply(4,5))
 
 
 
-function mul (num1, num2) {
-    let result = num1 * num2;
-    return 
-}
+
+
+// function multiply  (num1, num2) {
+//     let result = num1 * num2;
+//     return 
+// }
+
+
+// function multiply (num1, num2)  {
+//     return num1 * num2 
+//     }
+    
+//     console.log (multiply(5,5))
+    // write a simple program that calculates your 
+    // salary and tax if salary is 500 and the tax is 20% 
+    // what is the take home salary
+
+// let salary = 500;
+// let tax = 20;
+// let takehomesalary = salary - tax;
+// console.log ('your take home salary is' + takehomesalary)
+
+// let salary = 500;
+// let tax = .2;
+// let takeHomesalary = salary - (salary * tax);
+// console.log ('your take home salary is' + takeHomesalary)
+
+// if we have 1000 laptops and  1009 bags 
+// how many bags remaind if you put one laptop in each bag 
+
+let totalLaptop = 1000
+let totalBag = 1009
+let remainder = totalBag % totalLaptop
+console.log(remainder)
+
+
+
+
+
+
+
+
+
+
