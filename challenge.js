@@ -122,7 +122,11 @@ let remainder = totalBag % totalLaptop
 console.log(remainder)
 
 
+function multiply (num1 ,num2) {
+      return (num1 * num2)
+}
 
+console.log (multiply(6,6))
 
 
 
